@@ -3,7 +3,7 @@
 Software Engineer with a strong interest in building practical software products, full-stack web applications, and AI-powered solutions.
 
 ## About Me
-- 🎓 Software Engineering student at FAST NUCES
+- 🎓 Software Engineer from FAST NUCES
 - 💻 Interested in full-stack development, software design, and intelligent systems
 - 🚀 Building projects in web development, automation, and applied AI
 - 🧠 Familiar with JavaScript, TypeScript, Python, React, Node.js, APIs, databases, and software engineering principles
