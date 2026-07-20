@@ -144,14 +144,14 @@ Software Engineering graduate from **FAST-NUCES** with hands-on experience build
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arafaymalik7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafaymalik7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/arafaymalik7?style=for-the-badge&logo=github&color=2a78d6&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/arafaymalik7?style=for-the-badge&logo=github&color=0ca30c&labelColor=1a1a1a)
+&nbsp;
 
-<img src="https://streak-stats.demolab.com?user=arafaymalik7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=arafaymalik7&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" width="100%" />
+<em>Backend · Full-Stack · AI — building real-time and LLM-integrated systems.</em>
 
 </div>
+
 
 ---
 
