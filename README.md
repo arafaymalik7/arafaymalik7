@@ -5,8 +5,9 @@
 ### Backend · Full-Stack · AI Application Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A78D6&center=true&vCenter=true&width=650&lines=Building+AI-integrated+backends+%26+full-stack+products;Real-time+voice+AI+%7C+RAG+pipelines+%7C+REST+APIs;From+requirements+to+deployment+and+client+delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A78D6&center=true&vCenter=true&width=900&lines=Building+AI-integrated+backends+%26+full-stack+products;Real-time+voice+AI+%7C+RAG+pipelines+%7C+REST+APIs;From+requirements+to+deployment+%26+client+delivery" alt="Typing SVG" />
 </a>
+
 
 <p>
   <a href="mailto:arafaymalik7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
